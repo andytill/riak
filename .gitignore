@@ -9,3 +9,4 @@ apps/riak/.rebar
 
 erln8.config
 rel/vars/riak_shell.config
+.DS_Store
